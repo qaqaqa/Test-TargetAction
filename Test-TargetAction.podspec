@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
     s.name         = "Test-TargetAction"
-    s.version      = "1.0.1"
+    s.version      = "v1.0.1"
     s.summary      = "测试Test-TargetAction，以及github自制私有pods"
     s.homepage     = "https://github.com/qaqaqa/Test-TargetAction"
     s.license      = {:type=>"MIT",:file=>"LICENSE"}
